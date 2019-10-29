@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="500_F_266994789_meUKRWjbD1M1Jwxabm6hkWXMu1UhYCcB" size="10.000000 10.000000" />
+    <ImageTarget name="china-name-design1" size="10.000000 4.444445" />
+    <ImageTarget name="japan" size="10.000000 7.984615" />
+    <ImageTarget name="turkey" size="10.000000 7.000000" />
+    <ImageTarget name="australia" size="10.000000 10.000000" />
+    <ImageTarget name="england2" size="10.000000 8.337500" />
+    <ImageTarget name="england" size="10.000000 8.330770" />
+    <ImageTarget name="france" size="10.000000 10.000000" />
+    <ImageTarget name="germany" size="10.000000 5.375000" />
+    <ImageTarget name="germany-name-flag-5498329" size="10.000000 3.312629" />
+    <ImageTarget name="flag-ukraine-name-state-450w-760426465" size="15.000000 15.666667" />
+    <ImageTarget name="usaa" size="10.000000 8.333333" />
+    <ImageTarget name="64cf4076a21aa274dfaddd70251826cf" size="15.000000 14.975000" />
+    <ImageTarget name="depositphotos_103765548-stock-photo-japan-country-name-sign" size="10.000000 6.559140" />
+    <ImageTarget name="China-design-amped-name" size="10.000000 6.921739" />
+    <ImageTarget name="usa" size="10.000000 4.559524" />
+  </Tracking>
+</QCARConfig>
